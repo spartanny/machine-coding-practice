@@ -1,3 +1,6 @@
 *.iml
+*.gitignore
+
+# Directories
 out/
-.idea/
+idea/
