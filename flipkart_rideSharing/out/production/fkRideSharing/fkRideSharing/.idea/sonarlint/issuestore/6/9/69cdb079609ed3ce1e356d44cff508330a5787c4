@@ -1,0 +1,38 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ëáÕãşÿÿÿÿ8ä³ƒØ˜2J$2fcd3337-5406-48d6-9190-674dc120c2f6
+ˆ	java:S112Z"FDefine and throw a dedicated exception instead of using a generic one.(¢Ùî‚8å³ƒØ˜2J$2d197471-35f8-4828-b843-a12d4f857de3
+‰
+java:S1192"FDefine a constant instead of duplicating this literal "Rahul" 3 times.(‰ƒ”‹8æ³ƒØ˜2J$7b5ef21a-d2a8-49a5-ac30-3ce0f36cd7c7
+Š
+java:S1192"GDefine a constant instead of duplicating this literal "Shipra" 5 times.(âøığ8æ³ƒØ˜2J$ddaf69d3-1396-4ce4-aa7b-4d2c54841386
+Œ
+java:S1192"IDefine a constant instead of duplicating this literal "Shashank" 5 times.(í§ä×8æ³ƒØ˜2J$0f7e8744-46bb-49d3-93a6-1f04d34c2cee
+’
+java:S1192""JDefine a constant instead of duplicating this literal "Hyderabad" 5 times.(ó¼æ›şÿÿÿÿ8æ³ƒØ˜2J$f7749bc9-0efd-402c-ad4f-3c75a2784bae
+“
+java:S1192""KDefine a constant instead of duplicating this literal "Bangalore" 11 times.(ó¼æ›şÿÿÿÿ8æ³ƒØ˜2J$49aa83ed-97db-4546-afe7-0af4c40b4728
+‰
+java:S1192"FDefine a constant instead of duplicating this literal "Rohan" 5 times.(åÂ¯«8æ³ƒØ˜2J$c5c85e0d-2be5-4625-ba2e-ea4db1b4df26
+
+java:S1192"GDefine a constant instead of duplicating this literal "Baleno" 3 times.(¨ê–üÿÿÿÿ8æ³ƒØ˜2J$20123172-8f31-439a-8a9a-10b2d2db518a
+”
+java:S1192"LDefine a constant instead of duplicating this literal "KA-01-12345" 3 times.(Ö•Åùÿÿÿÿ8æ³ƒØ˜2J$86f4450c-1dd9-4438-b309-a89987c441bf
+
+java:S1192"GDefine a constant instead of duplicating this literal "Activa" 3 times.(ûª®èÿÿÿÿÿ8æ³ƒØ˜2J$adecec6f-d55b-4304-92d7-e66b277b0bc4
+
+java:S1192"FDefine a constant instead of duplicating this literal "Swift" 3 times.(Ö•Åùÿÿÿÿ8æ³ƒØ˜2J$45a17520-e53b-42ea-8916-8f8d5bb3c4ae
+Š
+java:S1192#"GDefine a constant instead of duplicating this literal "Mysore" 4 times.(±¾ÔÙ8æ³ƒØ˜2J$5d554f1c-02d9-45e2-b49b-82d4237072be
+l	java:S106"+Replace this use of System.out by a logger.(õúÕ8í³ƒØ˜2J$4683680c-8b72-43d5-9ce9-bcf56fdacbea
+r	java:S106!"+Replace this use of System.out by a logger.(‡×Šòÿÿÿÿÿ8í³ƒØ˜2J$a796ff8f-2d54-49f3-9bb7-ebc28dd11ab2
+	java:S1004"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğÊ¼ê8î³ƒØ˜2J$ccab6f02-6531-47f4-8d8e-b55279ac4c83
+•	java:S1009"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£Ùêªùÿÿÿÿ8ï³ƒØ˜2J$23a8e2b7-e387-43ca-a361-4af9fc20f03e
+r	java:S106<"+Replace this use of System.out by a logger.(İÊƒøÿÿÿÿ8ï³ƒØ˜2J$576ff24f-7771-46be-81a0-2ae08ce60cd3
+	java:S100C"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„‚8ï³ƒØ˜2J$2c72a994-b5d5-4473-917e-f3fb62d2008d
+q
+java:S1172C".Remove this unused method parameter "vehicle".(„‚8ğ³ƒØ˜2J$ec3d2efd-7e57-40c0-999d-f844157d3476
+m	java:S106G"+Replace this use of System.out by a logger.(ƒÂÖ‚8ğ³ƒØ˜2J$402f1cb1-f6d3-4f05-96d6-55fb70986ff9
+r	java:S106P"+Replace this use of System.out by a logger.(À¦œ©üÿÿÿÿ8ñ³ƒØ˜2J$d9dda4e7-7f8e-44db-bb7d-ded50a90cbc0
+•	java:S100T"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù”Øùÿÿÿÿ8ñ³ƒØ˜2J$3366fe9c-f449-43a7-93f5-3b28d4da7324
+	java:S100h"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(á‡Ø´8ò³ƒØ˜2J$6d9c2340-2990-4dc2-ba77-897ab435ae1a
+m	java:S106j"+Replace this use of System.out by a logger.(ê×¼©8ò³ƒØ˜2J$d465f2e2-6329-4669-b271-8bd13d535eff
